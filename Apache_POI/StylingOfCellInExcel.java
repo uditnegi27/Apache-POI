@@ -34,8 +34,6 @@ public class StylingOfCellInExcel {
 		workbook.write(file);
 		workbook.close();
 		file.close();
-		
-		System.out.println("finnish");
 	}
 
 }
